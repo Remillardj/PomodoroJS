@@ -1,0 +1,16 @@
+@import url("//fonts.googleapis.com/css?family=Open+Sans:400,700,600");
+
+body {
+  background-color: #0D5B85;
+  text-align: center;
+  font-family:"Open Sans";
+  color: white;
+}
+
+button {
+  color: black;
+}
+
+#timer span {
+  font-size: 80px;
+}
